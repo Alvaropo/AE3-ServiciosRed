@@ -1,0 +1,21 @@
+
+TIPO: BUSQUEDA ESPECIFICA
+Direccion IP: 127.0.0.1
+Fecha y Hora: 2023-02-07 21:53:45
+---------------------------
+TIPO: ISERCION DELINCUENTE
+Direccion IP: 127.0.0.1
+Fecha y Hora: 2023-02-07 21:53:49
+---------------------------
+TIPO: BUSQUEDA ESPECIFICA
+Direccion IP: 127.0.0.1
+Fecha y Hora: 2023-02-07 21:53:54
+---------------------------
+TIPO: BUSQUEDA ESPECIFICA
+Direccion IP: 127.0.0.1
+Fecha y Hora: 2023-02-07 21:54:26
+---------------------------
+TIPO: ISERCION DELINCUENTE
+Direccion IP: 127.0.0.1
+Fecha y Hora: 2023-02-07 21:55:21
+---------------------------
